@@ -1,0 +1,4 @@
+[submodule "tobiasriis/Odoo_dev_course"]
+	path = tobiasriis/Odoo_dev_course
+	url = git@github.com:tobiasriis/Odoo_dev_course.git
+	branch = app-technical-training-13.0-01-models
